@@ -5,6 +5,7 @@ const path = require('path')
 
 export default defineConfig({
   root: path.resolve(__dirname, 'src'),
+  base: '/lesol-re/', 
   resolve: {
     alias: {
       '~bootstrap': path.resolve(__dirname, 'node_modules/bootstrap'),
@@ -23,7 +24,9 @@ export default defineConfig({
         about: resolve(__dirname, './src/fotf_ABOUT.html'),
         contact: resolve(__dirname, './src/fotf_CONTACT.html'),
       },
+
     },
+    outDir: '../dist',
   },
 
 });
