@@ -1,0 +1,21 @@
+@font-face {
+    font-family : gulax;
+    src: url(fonts/Gulax-Regular.otf)
+}
+
+@font-face {
+    font-family : victor;
+    src: url(fonts/VTF-victorianna-thin.otf)
+}
+
+
+
+/* font-classes */
+
+.gulax {
+    font-family: gulax;
+}
+
+.victor {
+    font-family: victor;
+}

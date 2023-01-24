@@ -1,0 +1,187 @@
+body {
+    overflow-x: hidden;
+}
+
+
+
+/* classes */
+
+
+.overflow-hidden  {
+    overflow: hidden;
+    height: 10%; 
+}
+
+.filter-grey {
+    filter: grayscale(100%)
+}
+
+.homephoto {
+
+
+}
+
+.homephoto-wrapper {
+    height: 33rem;
+    width: 29rem;
+    overflow: hidden;
+}
+
+.ingredienten {
+    z-index: 1;
+    position: relative;
+    top: 3rem;
+    color:black;
+    font-style: bold; 
+}
+
+/* id */
+
+/* home */
+
+#rat {
+    height: 18rem;
+    width: 25rem;
+}
+
+#rat-wrapper {
+    padding-top: 1rem;
+    width: 25rem;
+    height: 17rem;
+    overflow: hidden;
+}
+
+/* home-photos */
+
+#photo-marolles {
+    opacity: 50%;
+    position: relative;
+    height: 60rem;
+    width: 75rem;
+    right: 45rem;
+    bottom: 25rem;
+    
+}
+
+#photo-marolles:hover {
+    opacity: 5%;
+    position: relative;
+    height: 60rem;
+    width: 75rem;
+    right: 45rem;
+    bottom: 25rem;
+    background-color:black
+}
+
+
+#photo-oostende {
+    opacity: 50%;
+    position: relative;
+    height: 60rem;
+    width: 60rem;
+    right: 10rem;
+    bottom: 18rem;
+}
+
+#photo-oostende:hover {
+    opacity: 5%;
+    position: relative;
+    height: 60rem;
+    width: 60rem;
+    right: 10rem;
+    bottom: 19rem;
+    background-color:black
+}
+
+#photo-stalingrad 
+{   opacity: 50%;
+    position: relative;
+    height: 50rem;
+    width: 40rem;
+    right: 5rem;
+    bottom: 20rem;
+}
+
+#photo-stalingrad:hover {
+    opacity: 5%;
+    position: relative;
+    height: 50rem;
+    width: 40rem;
+    right: 5rem;
+    bottom: 20rem;
+    background-color:black
+}
+
+#photo-schaarbeek {
+    opacity: 50%;
+    position: relative;
+    height: 50rem;
+    width: 60rem;
+    right: 15rem;
+    bottom: 20rem;
+}
+
+#photo-schaarbeek:hover {
+    opacity: 5%;
+    position: relative;
+    height: 50rem;
+    width: 60rem;
+    right: 15rem;
+    bottom: 20rem;
+    background-color:black
+}
+
+
+/* about id */
+
+
+#about-rat {
+    height: 15rem;
+    width: 24rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* menu text */
+
+#menu{
+    position: relative;
+    z-index: 1;
+}
+
+
+/* news */
+
+#news-one {
+    height: 10rem;
+}
+
+#newspaper-icon {
+   position: relative;
+   margin-right: -2rem;
+   bottom: 3.1rem;
+   left: 1rem;
+}
+
+/* carousel */
+
+.carousel-inner{
+}
+
+.carousel-item {
+}
+
+.carousel-pics {
+    height: 40rem;
+    width: 30rem;
+}

@@ -1,0 +1,21 @@
+//custom variables 
+$secondary: #f4f4f4;
+
+
+$pagination-color: black;
+$pagination-border-color: lightgrey;
+$pagination-border-radius: none; 
+
+
+$list-group-border-radius: none;
+$list-group-active-bg: black;
+
+$badge-border-radius: none; 
+
+$input-border-radius: none; 
+//import bootstrap
+
+
+
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
