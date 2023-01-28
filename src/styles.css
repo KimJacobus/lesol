@@ -54,7 +54,7 @@ body {
 /* home-photos */
 
 #photo-marolles {
-    opacity: 50%;
+    opacity: 15%;
     position: relative;
     height: 60rem;
     width: 75rem;
@@ -63,7 +63,7 @@ body {
     
 }
 
-#photo-marolles:hover {
+/* #photo-marolles:hover {
     opacity: 5%;
     position: relative;
     height: 60rem;
@@ -71,11 +71,11 @@ body {
     right: 45rem;
     bottom: 25rem;
     background-color:black
-}
+} */
 
 
 #photo-oostende {
-    opacity: 50%;
+    opacity: 15%;
     position: relative;
     height: 60rem;
     width: 60rem;
@@ -83,7 +83,7 @@ body {
     bottom: 18rem;
 }
 
-#photo-oostende:hover {
+/* #photo-oostende:hover {
     opacity: 5%;
     position: relative;
     height: 60rem;
@@ -91,10 +91,10 @@ body {
     right: 10rem;
     bottom: 19rem;
     background-color:black
-}
+} */
 
 #photo-stalingrad 
-{   opacity: 50%;
+{   opacity: 15%;
     position: relative;
     height: 50rem;
     width: 40rem;
@@ -102,7 +102,7 @@ body {
     bottom: 20rem;
 }
 
-#photo-stalingrad:hover {
+/* #photo-stalingrad:hover {
     opacity: 5%;
     position: relative;
     height: 50rem;
@@ -110,10 +110,10 @@ body {
     right: 5rem;
     bottom: 20rem;
     background-color:black
-}
+} */
 
 #photo-schaarbeek {
-    opacity: 50%;
+    opacity: 15%;
     position: relative;
     height: 50rem;
     width: 60rem;
@@ -121,7 +121,7 @@ body {
     bottom: 20rem;
 }
 
-#photo-schaarbeek:hover {
+/* #photo-schaarbeek:hover {
     opacity: 5%;
     position: relative;
     height: 50rem;
@@ -129,7 +129,7 @@ body {
     right: 15rem;
     bottom: 20rem;
     background-color:black
-}
+} */
 
 
 /* about id */
